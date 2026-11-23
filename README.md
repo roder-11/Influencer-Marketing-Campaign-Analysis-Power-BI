@@ -36,18 +36,7 @@ Six Excel source files (campaigns, influencers, influencer-campaign performance,
 
 <img width="1367" height="654" alt="All the Tables" src="https://github.com/user-attachments/assets/90ae33f3-2093-4afd-a99d-ec21992c07a1" />
 
-
-```mermaid
-erDiagram
-    CAMPAIGN ||--o{ ORDERS : "Campaign_ID"
-    CAMPAIGN ||--o{ INFLUENCER_CAMPAIGN_PERFORMANCE : "Campaign_ID"
-    CAMPAIGN ||--o{ CUSTOMER : "Source_Campaign_ID"
-    INFLUENCERS ||--o{ ORDERS : "Source_Influencer_ID"
-    INFLUENCERS ||--o{ INFLUENCER_CAMPAIGN_PERFORMANCE : "Source_Influencer_ID"
-    INFLUENCERS ||--o{ CUSTOMER : "Source_Influencer_ID"
-    PRODUCTS ||--o{ ORDERS : "Product_ID"
-    DATE ||--o{ ORDERS : "Order_Date"
-```
+_ _ _
 
 ## Tables
 | Role | Table |
@@ -68,7 +57,9 @@ erDiagram
 | Customer[Source_Campaign_ID] | Campaign[Campaign_ID] | Many → One | Single |
 | Customer[Source_Campaign_ID] | Orders[Campaign_ID] | Many ↔ Many | Single |
 
+
 ## 🖥 Dashboard Tour
+_ _ _
 
 ## 1️⃣ Performance overview
 
