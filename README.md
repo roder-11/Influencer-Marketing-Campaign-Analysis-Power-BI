@@ -75,8 +75,13 @@ _ _ _
 
 ### 2️⃣ Marketing Campaign Analysis
 
+- $352.85M revenue against $2.91M cost works out to about 120× the amount spent.
+- Platforms: TikTok leads on volume and sales, with 50% of units and 49% of sales. Instagram has the smallest volume but the highest value per unit, at about $3.6K compared with about $3K for TikTok.
+- Conversion trend: it peaks at 11.41% in May–June and drops to 2.32% in the following period, so it is very volatile.
+- Influencer ROI: scale and efficiency move in opposite directions.
+- INF008, INF019 and INF012 bring 58.5% of revenue but have the lowest ROI.
+- The five best-ROI influencers generate only about 6% of revenue, on very small spend.
 
-Conversion rate, revenue, marketing cost and ROI, with platform split (orders and sales), annual conversion-rate trend and an influencer ROI ranking. Slicers: year, month, quarter, campaign, platform.
 
 **Marketing campaign**
 
