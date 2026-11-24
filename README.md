@@ -36,7 +36,6 @@ Six Excel source files (campaigns, influencers, influencer-campaign performance,
 
 <img width="1367" height="654" alt="All the Tables" src="https://github.com/user-attachments/assets/90ae33f3-2093-4afd-a99d-ec21992c07a1" />
 
-_ _ _
 
 ## Tables
 | Role | Table |
@@ -59,9 +58,8 @@ _ _ _
 
 
 ## 🖥 Dashboard Tour
-_ _ _
 
-## 1️⃣ Performance overview
+### 1️⃣ Performance overview
 
 - Sales **$352.85M**; average conversion rate **3.75%**; marketing cost **$2.91M**; average cost per post **$197.2K**; **100K conversions** (influencers page).
 - Top campaigns by conversions: CMP009 (10,117), CMP006 (10,116), CMP005 (10,110), CMP010 (10,033). CMP009 shows the highest ROI value among the top 10 ($1,233.49K) and CMP002 / CMP007 / CMP004 show a rising trend.
@@ -89,7 +87,7 @@ _ _ _
 <img width="1366" height="707" alt="2_Campaign Marketing" src="https://github.com/user-attachments/assets/18b9044e-9cab-4ba1-864b-986670bb03f8" />
 
 
-## 3️⃣ Influencers & Performance
+### 3️⃣ Influencers & Performance
 
 - Revenue by influencer level: **Mega 58.51%**, **Macro 35.47%**, Micro 4.63%, Nano the remainder.
 - Highest ROI: **INF009**, **INF003**, then INF006, INF016, INF001. Lowest: INF012, INF008, INF019.
@@ -103,7 +101,7 @@ _ _ _
 <img width="1367" height="711" alt="3_Influencers and Campaign" src="https://github.com/user-attachments/assets/72ae1785-0f3e-4bd6-be96-593105d942fd" />
 
 
-## 4️⃣ Products & Sales Trends
+### 4️⃣ Products & Sales Trends
 
 - Product revenue: **Dresses ≈ 35%**, Jackets ≈ 24%, Pants ≈ 16%, Accessories ≈ 16%.
 - Best-selling products: PRD007 (Pants, $42.87M), PRD008 (Dresses), PRD017 (Dresses), PRD022 (Jackets), PRD003 (Dresses).
@@ -119,7 +117,7 @@ _ _ _
 <img width="1368" height="706" alt="4_Product And Sales Trends" src="https://github.com/user-attachments/assets/ca4df36e-87df-481c-942c-746ad741984b" />
 
 
-## 5️⃣ Customer & Demographic Analysis
+### 5️⃣ Customer & Demographic Analysis
 
 - 9,036 new customers vs goal 8,072 (**+11.94%**).
 - Average age 30; gender split almost even.
