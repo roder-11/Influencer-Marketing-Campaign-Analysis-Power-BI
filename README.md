@@ -68,7 +68,7 @@ Six Excel source files (campaigns, influencers, influencer-campaign performance,
 **Overall performance**
 
 
-<img width="1367" height="696" alt="1_Overall_Performance" src="https://github.com/user-attachments/assets/8c42aaa0-870d-45b4-86a0-bb40b1f32262" />
+<img width="1367" height="698" alt="1_Overall_Performance" src="https://github.com/user-attachments/assets/a3721fcf-412c-41a1-b353-5eb3f2a5153c" />
 
 
 ### 2️⃣ Marketing Campaign Analysis
